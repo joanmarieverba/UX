@@ -74,6 +74,11 @@ body {
 }
 
 
+.center-text {
+  text-align: center;
+}
+
+
 .round {
     height: 17vw;
     width: 10vw;
@@ -84,6 +89,10 @@ body {
     margin-right: auto;
 }
 
+
+ul {
+  list-style-type: none;
+}
 
 hr {
   box-sizing: content-box;
